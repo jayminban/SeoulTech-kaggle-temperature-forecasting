@@ -1,6 +1,6 @@
 # Kaggle Competition — Temperature Forecasting (SeoulTech Machine Learning Class)
 
-This repository documents my work for a Kaggle competition hosted as part of the SeoulTech Machine Learning course.
+This repository documents my solution for a Kaggle competition hosted as part of the SeoulTech Machine Learning course.
 The objective was to predict the next day’s average temperature based on hourly weather measurements from the previous day.
 
 The approach combined extensive feature engineering with the training and ensembling of multiple traditional machine learning models, evaluated using regression metrics.
